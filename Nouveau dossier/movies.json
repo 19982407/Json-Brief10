@@ -1,0 +1,261 @@
+[{
+    "Titre": "The Town", 
+    "Réalisateur": "Ben Affleck",
+    "Durée":"01:25:00",
+    "Date": "17 septembre 2010",
+    "Poster": "img/img9.jpg",
+    "Féstivals": ["Film nommé aux Oscars","Film nommé aux Golden Globes"],
+    "Acteurs": [
+        {
+            "firstname": "Ben",
+            "lastName": "Affleck",
+            "nationality": "Américain"
+        },
+        {
+            "firstname": "Jeremy",
+            "lastName": "Renner",
+            "nationality": "Américain"
+        },
+        {
+            "firstname": "Rebecca",
+            "lastName": "Hall",
+            "nationality": "Brétannique-Américaine"
+        }
+
+    ]
+},
+{
+    "Titre": "The Tomorrow War", 
+    "Réalisateur": "Chris McKay",
+    "Durée":"01:40:00",
+    "Poster": "img/img8.jpg",
+    "Féstivals": ["Venice Film Festival","Golden Lion for Best Film"],
+    "Date": " 2 juillet 2021",
+    "Acteurs": [
+        {
+            "firstname": "Chris",
+            "lastName": "Pratt",
+            "nationality": "Américain"
+        },
+        {
+            "firstname": "Yvonne",
+            "lastName": "Strahovski",
+            "nationality": "Australienne"
+        },
+        {
+            "firstname": "J.K",
+            "lastName": "Simmons",
+            "nationality": "Américain"
+        }
+
+    ]
+},
+{
+    "Titre": "The Social Network", 
+    "Réalisateur": "David Fincher",
+    "Durée":"02:00:00",
+    "Poster": "img/img3.jpg",
+    "Féstivals": ["Le Festival du film de New York","Festival Mumbai" ,"Festival Tokyo" ,"Festival Rome"],
+    "Date": "4 juillet 2010",
+    "Acteurs": [
+        {
+            "firstname": "Jesse",
+            "lastName": "Eisenberg",
+            "nationality": "Américain"
+        },
+        {
+            "firstname": "Andrew",
+            "lastName": "Garfield",
+            "nationality": "Américain"
+        },
+        {
+            "firstname": "Justin",
+            "lastName": "Timberlake",
+            "nationality": "Américain"
+        }
+
+    ]
+},
+{
+    "Titre": "The godfather", 
+    "Réalisateur": "Francis Ford Coppola",
+    "Durée":"02:55:00",
+    "Poster": "img/img2.jpg",
+    "Féstivals": ["Le Festival du film de New York","Festival Feast of San Rocco"],
+    "Date": "24 mars 1972 ",
+    "Acteurs": [
+        {
+            "firstname": "Marlon",
+            "lastName": "Brando",
+            "nationality": "Américain"
+        },
+        {
+            "firstname": "Al",
+            "lastName": "Pacino",
+            "nationality": " Italienne"
+        },
+        {
+            "firstname": "James",
+            "lastName": "Caan",
+            "nationality": "Américain"
+        }
+
+    ]
+},
+{
+    "Titre": "The Batman", 
+    "Réalisateur": " Matt Reeves",
+    "Durée":"01:76:00",
+    "Poster": "img/img4.jpg",
+    "Féstivals": ["Le Festival Lumiére"," Féstival lumiére"],
+    "Date": "4 mars 2022",
+    "Acteurs": [
+        {
+            "firstname": "Robert",
+            "lastName": "Pattinson",
+            "nationality": "Londres"
+        },
+        {
+            "firstname": "Zoë",
+            "lastName": "Kravitz",
+            "nationality": "Américaine"
+        },
+        {
+            "firstname": "Paul",
+            "lastName": "Dano",
+            "nationality": "Américain"
+        }
+
+    ]
+},
+{
+    "Titre": "Spider-Man", 
+    "Réalisateur": "Todd Phillips",
+    "Durée":"01:17:00",
+    "Poster": "img/img10.jpg",
+    "Féstivals": ["Venice Film Festival","Golden Lion for Best Film"],
+    "Date": "4 octobre 2019",
+    "Acteurs": [
+        {
+            "firstname": "Bob",
+            "lastName": "Persichetti",
+            "nationality": "Américain"
+        },
+        {
+            "firstname": "Peter",
+            "lastName": "Ramsey",
+            "nationality": "Américain"
+        },
+        {
+            "firstname": "Rodney",
+            "lastName": "Rothman",
+            "nationality": "Américain"
+        }
+
+    ]
+},
+{
+    "Titre": "Joker", 
+    "Réalisateur": "Todd Phillips",
+    "Durée":"02:02:00",
+    "Poster": "img/img5.jpg",
+    "Féstivals": ["Venice Film Festival","Golden Lion for Best Film"],
+    "Date": "4 octobre 2019",
+    "Acteurs": [
+        {
+            "firstname": "Joaquin",
+            "lastName": "Phoenix",
+            "nationality": "Américain"
+        },
+        {
+            "firstname": "Robert",
+            "lastName": "De Niro",
+            "nationality": "italien"
+        },
+        {
+            "firstname": "Zazie",
+            "lastName": "Beetz",
+            "nationality": "Allemagne"
+        }
+
+    ]
+},
+{
+    "Titre": "Carter", 
+    "Réalisateur": "Jung Byung-gil",
+    "Durée":"01:32:00",
+    "Poster": "img/img7.jpg",
+    "Féstivals": ["Venice Festival","Golden Film"],
+    "Date": "5 aout 2022",
+    "Acteurs": [
+        {
+            "firstname": "Joo",
+            "lastName": "Won",
+            "nationality": "South Korea"
+        },
+        {
+            "firstname": "Lee",
+            "lastName": "Sung-jae",
+            "nationality": "South Korea"
+        },
+        {
+            "firstname": "Jeong",
+            "lastName": "So-ri",
+            "nationality": "South Korea"
+        }
+
+    ]
+},
+     {
+        "Titre": "Avengers", 
+        "Réalisateur": "Joss Whedon",
+        "Durée":"02:29:00",
+        "Poster": "img/img1.jpg",
+        "Féstivals": ["FESTIVAL MARVEL","Festival Angoulême"],
+        "Date": "4 mai 2012",
+        "Acteurs": [
+            {
+                "firstname": "Robert",
+                "lastName": "Downey",
+                "nationality": "Américain"
+            },
+            {
+                "firstname": "Scarlett",
+                "lastName": "Johansson",
+                "nationality": "Américaine"
+            },
+            {
+                "firstname": "Mark",
+                "lastName": "Ruffalo",
+                "nationality": "Américain"
+            }
+
+        ]
+    },
+    {
+        "Titre": "Adam à travers le temps", 
+        "Réalisateur": "Shawn Levy",
+        "Durée":"01:46:00",
+        "Poster": "img/img6.jpg",
+        "Féstivals": ["Festival cannes"," Féstival lumiére"],
+        "Date": "28 février 2022",
+        "Acteurs": [
+            {
+                "firstname": "Ryan ",
+                "lastName": "Reynolds",
+                "nationality": "Britannique"
+            },
+            {
+                "firstname": "Mark",
+                "lastName": "Ruffalo",
+                "nationality": "Américain"
+            },
+            {
+                "firstname": "Jennifer",
+                "lastName": " Garner",
+                "nationality": "Américaine"
+            }
+
+        ]
+    }
+]

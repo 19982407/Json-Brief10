@@ -1,0 +1,17 @@
+.input-group {
+    padding: 50px 20px;
+    font-size: medium;
+}
+h1 {
+    color: #ff0000;
+    text-align: center;
+    font-size: 50px;
+    font-family: monospace;
+    padding-top: 20px;
+}
+img {
+    width: 80px;
+}
+th {
+    font-size: 13px;
+}
